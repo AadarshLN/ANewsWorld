@@ -1,0 +1,21 @@
+#centralImage
+{
+    width:30%;
+    height:20%;
+    margin-top: 10%;
+    opacity: 0.8;
+    border-radius: 60%;
+    border-style:double;
+
+}
+body
+{
+    background-color: rgb(211,211,211,0.5);
+}
+.top
+{
+    font-weight:500;
+    font-stretch:ultra-expanded;
+    font-style: oblique;
+    font-size:large
+}
